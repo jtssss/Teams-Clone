@@ -112,7 +112,7 @@ export default class HomePage extends Component{
 
         <div class="footer">
             <div class="container px-4 sm:px-8">
-                <p class="mb-8 lg:max-w-3xl lg:mx-auto">This web application is made as part of Microsoft Engage 2021 by <b>Amancha Jagruth.</b> All rights reserved</p>
+                <p class="mb-8 lg:max-w-3xl lg:mx-auto">This web application is made by <b>Jashwanth Tej Savvasi.</b> All rights reserved</p>
             </div> 
         </div> 
                 
